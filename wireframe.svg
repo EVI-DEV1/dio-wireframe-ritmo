@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1880" viewBox="0 0 1440 1880" role="img" aria-labelledby="title desc"><title id="title">Ritmo — wireframe de média fidelidade</title><desc id="desc">Página de apresentação de um planejador de estudos, com proposta de valor, benefícios, funcionamento, exemplo de rotina, perguntas frequentes e chamada para montar um plano.</desc><rect width="1440" height="1880" fill="#fff"/><style>text{font-family:Arial,sans-serif;fill:#202020}.muted{fill:#595959}.h{font-size:34px;font-weight:700}.body{font-size:20px}.small{font-size:17px}.k{font-size:15px;letter-spacing:1px}</style>
+<rect x="0" y="0" width="1440" height="88" rx="0" fill="#fff" stroke="#ddd"/>
+<text x="100" y="55" class="h">ritmo</text>
+<text x="740" y="52" class="small">Como funciona</text>
+<text x="920" y="52" class="small">Dúvidas</text>
+<rect x="1085" y="18" width="255" height="52" rx="8" fill="#303030" stroke="#303030"/>
+<text x="1105" y="51" class="body" style="fill:#fff">Montar meu plano</text>
+<text x="100" y="150" class="k">PLANEJADOR DE ESTUDOS</text>
+<text x="100" y="215" class="h">Seu próximo passo,</text>
+<text x="100" y="263" class="h">no tempo que você tem.</text>
+<text x="100" y="316" class="body">Organize metas e revisões em uma rotina</text>
+<text x="100" y="347" class="body">que cabe na sua semana.</text>
+<rect x="100" y="388" width="250" height="52" rx="8" fill="#303030" stroke="#303030"/>
+<text x="120" y="421" class="body" style="fill:#fff">Montar meu plano</text>
+<text x="100" y="477" class="small">Sem precisar planejar tudo de uma vez.</text>
+<rect x="800" y="135" width="540" height="370" rx="8" fill="#f5f5f5" stroke="#bdbdbd"/>
+<text x="832" y="180" class="body">Exemplo de rotina semanal</text>
+<text x="832" y="213" class="small">Semana de 19 a 23 de outubro</text>
+<rect x="832" y="236" width="476" height="60" rx="8" fill="#fff" stroke="#bdbdbd"/>
+<text x="848" y="272" class="small">SEG</text>
+<text x="907" y="272" class="small">Revisar conceitos de UX</text>
+<text x="1225" y="272" class="small">25 min</text>
+<rect x="832" y="308" width="476" height="60" rx="8" fill="#fff" stroke="#bdbdbd"/>
+<text x="848" y="344" class="small">QUA</text>
+<text x="907" y="344" class="small">Praticar um wireframe</text>
+<text x="1225" y="344" class="small">40 min</text>
+<rect x="832" y="380" width="476" height="60" rx="8" fill="#fff" stroke="#bdbdbd"/>
+<text x="848" y="416" class="small">SEX</text>
+<text x="907" y="416" class="small">Testar o que aprendi</text>
+<text x="1225" y="416" class="small">20 min</text>
+<text x="832" y="478" class="small">Conteúdo ilustrativo — não é uma conta real.</text>
+<line x1="100" y1="560" x2="1340" y2="560" stroke="#ddd"/>
+<text x="100" y="627" class="h">Menos decisões soltas. Mais clareza para estudar.</text>
+<rect x="100" y="670" width="390" height="205" rx="8" fill="#f3f3f3" stroke="#bdbdbd"/>
+<text x="124" y="708" class="k">01</text>
+<text x="124" y="753" class="body">Uma meta por vez</text>
+<text x="124" y="798" class="small">Escolha o que quer aprender</text>
+<text x="124" y="827" class="small">e encontre seu próximo passo.</text>
+<rect x="525" y="670" width="390" height="205" rx="8" fill="#f3f3f3" stroke="#bdbdbd"/>
+<text x="549" y="708" class="k">02</text>
+<text x="549" y="753" class="body">Tempo possível</text>
+<text x="549" y="798" class="small">Distribua sessões de estudo</text>
+<text x="549" y="827" class="small">de acordo com sua semana.</text>
+<rect x="950" y="670" width="390" height="205" rx="8" fill="#f3f3f3" stroke="#bdbdbd"/>
+<text x="974" y="708" class="k">03</text>
+<text x="974" y="753" class="body">Revisão no caminho</text>
+<text x="974" y="798" class="small">Reserve espaço para praticar</text>
+<text x="974" y="827" class="small">e conferir o que aprendeu.</text>
+<text x="100" y="966" class="h">Como funciona</text>
+<text x="100" y="1008" class="body">Um plano começa com escolhas simples.</text>
+<rect x="100" y="1048" width="48" height="48" rx="24" fill="#fff" stroke="#555"/>
+<text x="118" y="1080" class="body">1</text>
+<text x="166" y="1072" class="body">Defina um objetivo</text>
+<text x="166" y="1110" class="small">O que você quer aprender?</text>
+<rect x="525" y="1048" width="48" height="48" rx="24" fill="#fff" stroke="#555"/>
+<text x="543" y="1080" class="body">2</text>
+<text x="591" y="1072" class="body">Escolha seus horários</text>
+<text x="591" y="1110" class="small">Quanto tempo pode reservar?</text>
+<rect x="950" y="1048" width="48" height="48" rx="24" fill="#fff" stroke="#555"/>
+<text x="968" y="1080" class="body">3</text>
+<text x="1016" y="1072" class="body">Ajuste na prática</text>
+<text x="1016" y="1110" class="small">Revise o plano a cada semana.</text>
+<rect x="100" y="1180" width="1240" height="146" rx="8" fill="#f3f3f3" stroke="#bdbdbd"/>
+<text x="132" y="1230" class="h">Comece com a sua próxima semana.</text>
+<text x="132" y="1273" class="body">Defina uma meta e transforme o tempo disponível em um plano.</text>
+<rect x="1050" y="1227" width="255" height="52" rx="8" fill="#303030" stroke="#303030"/>
+<text x="1070" y="1260" class="body" style="fill:#fff">Montar meu plano</text>
+<text x="100" y="1415" class="h">Perguntas frequentes</text>
+<rect x="100" y="1450" width="1240" height="90" rx="8" fill="#fff" stroke="#bdbdbd"/>
+<text x="124" y="1487" class="body">Posso mudar meus horários depois?</text>
+<text x="1280" y="1487" class="body">−</text>
+<text x="124" y="1520" class="small">Sim. A proposta é permitir ajustar a rotina quando sua semana mudar.</text>
+<rect x="100" y="1552" width="1240" height="60" rx="8" fill="#fff" stroke="#bdbdbd"/>
+<text x="124" y="1589" class="body">Preciso definir todas as metas agora?</text>
+<text x="1280" y="1589" class="body">+</text>
+<rect x="100" y="1624" width="1240" height="60" rx="8" fill="#fff" stroke="#bdbdbd"/>
+<text x="124" y="1661" class="body">Como vou acompanhar minhas revisões?</text>
+<text x="1280" y="1661" class="body">+</text>
+<line x1="100" y1="1750" x2="1340" y2="1750" stroke="#ddd"/>
+<text x="100" y="1800" class="h">ritmo</text>
+<text x="100" y="1838" class="small">Conceito de produto • estudo de interface</text>
+<text x="860" y="1810" class="small">Como funciona</text>
+<text x="1080" y="1810" class="small">Perguntas frequentes</text>
+</svg>
